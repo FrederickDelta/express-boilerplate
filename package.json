@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/FrederickDelta/express-boilerplate/issues"
   },
-  "homepage": "https://github.com/FrederickDelta/express-boilerplate#readme"
+  "homepage": "https://github.com/FrederickDelta/express-boilerplate#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
 }
